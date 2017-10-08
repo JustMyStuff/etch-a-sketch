@@ -1,0 +1,14 @@
+#grid-holder {
+	overflow: auto;
+	height: 960px;
+	width: 960px;
+	text-align: center;
+}
+
+.sketch:hover {
+	background-color: #000;
+}
+
+.highlight {
+	background-color: #4a4a4a;
+}
